@@ -1,8 +1,8 @@
 package com.emem.farm;
 
-public abstract interface Shroom {
+public interface Shroom {
 
-    abstract void growShroom();
+    void growShroom();
 
-    abstract void rot();
+    void rot();
 }
